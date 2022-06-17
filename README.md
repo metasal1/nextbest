@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+TO DO STILL
+
+1. add google analytics
+2. add sendgrid for emails
+3. add twilio for sms
+4. add mongo or supabase for db
+
 ## Getting Started
 
 First, run the development server:
